@@ -6,7 +6,9 @@
 
 An interactive e-commerce sales dashboard developed using Microsoft Power BI to analyze sales performance and business trends.
 
+## Dashboard Preview
 
+![Power BI Dashboard](dashboard.png)
 
 ## Tools Used
 
